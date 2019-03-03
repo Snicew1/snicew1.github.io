@@ -1,0 +1,26 @@
+
+.col-sm {
+  font-family: cursive;
+  background-color: yellow;
+}
+
+.row {
+  width: 100%;
+}
+
+.column {
+  float:left;
+}
+
+.column-20 {
+  width: 20%;
+}
+
+.column-50 {
+  width: 50%;
+}
+
+.column-80 {
+  background-color: rgb(195, 26, 135);
+  width: 80%;
+}

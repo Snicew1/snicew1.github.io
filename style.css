@@ -1,0 +1,57 @@
+p {
+  padding: 5px;
+  border: 2px solid rgb(100, 39, 208);
+  margin: 8px;
+}
+
+h1 {
+color: rgb(212, 255, 0);
+font-family: "Lato";
+font-size: 36px;
+}
+
+a {
+    font-size: 36px;
+    color: rgb(230, 41, 6);
+}
+
+.smallfont {
+  font-size: 18px;
+}
+
+.largefont {
+  font-size: 24px;
+}
+
+.blue {
+  color: rgb(8, 218, 245);
+}
+
+.mediumfont {
+  font-size: 18px;
+}
+
+.red {
+  color: rgb(173, 37, 37);
+}
+
+table {
+  color: rgb(30, 8, 70);
+  font-family: "Roboto Slab";
+}
+
+body {
+  background-color: rgb(158, 158, 158);
+}
+
+ol
+  {
+    font-family: Merriweather;
+    color: rgb(11, 11, 224);
+  }
+
+  ul
+    {
+      font-family: Lato;
+      color: rgb(233, 30, 99);
+  }
